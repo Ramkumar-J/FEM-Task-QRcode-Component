@@ -39,7 +39,7 @@ body{
     margin-bottom: 20px;
 }
 
-/* Responsive for Mobile devices */
+/* Responsive for Mobile devices (sm - 576px) */
 @media (max-width:576px) {
     .qr-card{
         width: 270px;
